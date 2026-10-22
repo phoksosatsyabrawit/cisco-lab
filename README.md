@@ -1,2 +1,2 @@
 # cisco-lab
-A hand-on cisco lab with cisco packet tracer.
+A hand-on Networking learning lab using cisco packet tracer.
